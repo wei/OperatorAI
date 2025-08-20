@@ -4,6 +4,10 @@
 
 OperatorAI won third place in the [AssmeblyAI Winter Hackathon](https://hackathon.assemblyai.com/). Find our demo on [Devpost](https://devpost.com/software/draft-w86vkc).
 
+# 🎥 Demo
+
+https://github.com/user-attachments/assets/80212708-5675-46f7-8cf8-4c7195b8ea5d
+
 # 🚨 OperatorAI
 
 Did you know many 911 call centers are understaffed? During the last hurricane in Florida, thousands of 911 callers were faced with no services. Also, the latest report showed 60 percent of callers in the US cannot be located by emergency dispatchers because of outdated technologies.
